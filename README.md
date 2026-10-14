@@ -1,2 +1,2 @@
 # oop-fundamentals-
-repo about tp in object oriented programming 
+repo about tp in object oriented programming classes 
